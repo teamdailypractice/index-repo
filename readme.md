@@ -31,6 +31,11 @@ This repository is used to index the repositories under team daily practice acco
     * Tamil spelling mistakes (Thirukkural)
     * English spelling mistakes (Kavi Yogi Suddhanda Bharati - Translation)
     * Other translations needs to be verified
+  * Database used is **sqlite**
+  * Database file is saved as **dev.sqlite** in the project root directory
+  * This **database file** is used to generate:
+    * **Thirukkural PDF** files for all different translations/commentaries
+    * Used to create the **Thirukkural search web app data**
 
 * [thirukkural-pdf-generator-app](https://github.com/teamdailypractice/thirukkural-pdf-generator-app)
   * This is used to generate Thirukkural as PDF for each of the translations/commentaries
