@@ -23,8 +23,24 @@ This repository is used to index the repositories under team daily practice acco
 
 ## Thirukkural application repositories
 
+* [thirukkural-admin-ui-app](https://github.com/teamdailypractice/thirukkural-admin-ui-app)
+  * This is used to update the thirukkural data using browser
+  * Initial data is loaded from <http://tamilvu.org>
+  * Following corrections/fixes/updates are done
+    * Punctuations (Thirukkural)
+    * Tamil spelling mistakes (Thirukkural)
+    * English spelling mistakes (Kavi Yogi Suddhanda Bharati - Translation)
+    * Other translations needs to be verified
+
+* [thirukkural-pdf-generator-app](https://github.com/teamdailypractice/thirukkural-pdf-generator-app)
+  * This is used to generate Thirukkural as PDF for each of the translations/commentaries
+  * Book format
+  * Printable
+  * Readable
+
+* [thirukkural-search-app](https://github.com/teamdailypractice/thirukkural-search-app)
+  * This is the website project
+  * Available through internet: <https://dailypractice.info/thirukkural/>
+  * Build the project and finally copy the output to **teamdailypractice.github.io** repo, **thirukkural** directory
 
 ## PDF tools repositories
-
-*
-
